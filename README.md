@@ -10,7 +10,7 @@
 
 ## Installation
 
-1. Download the plugin and upload the `tiny-gemini-ai-writer` folder to the `/wp-content/plugins/` directory.
+1. Download and upload the `tiny-gemini-ai-writer` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Navigate to the plugin settings page and put in your Google Gemini API key.
 
