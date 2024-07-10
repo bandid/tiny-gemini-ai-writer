@@ -19,20 +19,4 @@
 1. Input your prompt and generate content with a single click.
 2. Review and edit the generated draft post before publishing it on your site.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Start enhancing your content creation process with the power of AI using Tiny Gemini AI Writer today!
-
 ---
