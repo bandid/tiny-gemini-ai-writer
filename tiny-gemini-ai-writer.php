@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tiny Gemini AI Writer
-Plugin URI: https://github.com/bandid
+Plugin URI: https://github.com/bandid/tiny-gemini-ai-writer
 Description: A simple and lightweight AI article writer plugin for WordPress that uses Google Gemini.
 Version: 1.0
 Author: Daniel Bandi
