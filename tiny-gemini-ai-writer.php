@@ -2,7 +2,7 @@
 /*
 Plugin Name: Tiny Gemini AI Writer
 Plugin URI: https://github.com/bandid/tiny-gemini-ai-writer
-Description: A simple and lightweight AI article writer plugin for WordPress that uses Google Gemini.
+Description: A simple AI article writer for WordPress that uses the Google Gemini API.
 Version: 1.0
 Author: Daniel Bandi
 Author URI: https://github.com/bandid
@@ -22,7 +22,7 @@ function tiny_gemini_ai_writer_menu() {
         'manage_options',                 // Capability
         'tiny-gemini-ai-writer',          // Menu slug
         'tiny_gemini_ai_writer_page',     // Function
-        'dashicons-analytics',            // Icon URL (Dashicons or custom URL)
+        'dashicons-text',            // Icon URL (Dashicons or custom URL)
         $menu_position                    // Position
     );
     add_submenu_page(
