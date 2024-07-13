@@ -4,5 +4,5 @@ if (!defined('WP_UNINSTALL_PLUGIN')) {
     die;
 }
 
-// Delete the stored API keys from the database
+// Delete the stored API key from the database
 delete_option('gemini_ai_api_key');
